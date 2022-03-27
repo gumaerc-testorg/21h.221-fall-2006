@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e0e8fb8-e84e-e8a8-6e86-a87a3d88fcd9
 resourcetype: Document
 title: ses10_great_mig.pdf
 uid: 0d22d7a0-4fc6-fcf3-f0b9-509ed873c6db

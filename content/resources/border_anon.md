@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 673e8610-0aa0-6e06-b20b-f2dc71de2203
 resourcetype: Document
 title: border_anon.pdf
 uid: 317826a8-c706-8dd0-0188-7eb3f69d6d82

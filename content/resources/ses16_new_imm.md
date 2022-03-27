@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e0e8fb8-e84e-e8a8-6e86-a87a3d88fcd9
 resourcetype: Document
 title: ses16_new_imm.pdf
 uid: 52269eb4-8291-c72b-058d-e4b28d7534d5

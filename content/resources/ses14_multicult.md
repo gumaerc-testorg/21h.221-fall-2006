@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e0e8fb8-e84e-e8a8-6e86-a87a3d88fcd9
 resourcetype: Document
 title: ses14_multicult.pdf
 uid: ff75ce1c-6d23-756d-8088-fbd5857890df

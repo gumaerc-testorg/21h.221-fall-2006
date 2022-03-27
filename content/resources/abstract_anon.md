@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 104893c7-980e-b3ba-6a64-cd1ac205f903
 resourcetype: Document
 title: abstract_anon.pdf
 uid: 624d9b5c-f594-7750-f276-b062c3cf4bfe

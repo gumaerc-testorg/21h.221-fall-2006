@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 104893c7-980e-b3ba-6a64-cd1ac205f903
 resourcetype: Document
 title: short_essay.pdf
 uid: 95ba6615-f31f-d727-2543-d2edcde96614

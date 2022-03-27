@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e0e8fb8-e84e-e8a8-6e86-a87a3d88fcd9
 resourcetype: Document
 title: ses15_lower_east.pdf
 uid: f5ac4123-b1c3-6241-0b50-c92c8629c260

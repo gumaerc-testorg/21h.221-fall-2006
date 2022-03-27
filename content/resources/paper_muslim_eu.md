@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 104893c7-980e-b3ba-6a64-cd1ac205f903
 resourcetype: Document
 title: paper_muslim_eu.pdf
 uid: d4cf5388-e5ff-9cd5-8cff-8a6630cc18a7

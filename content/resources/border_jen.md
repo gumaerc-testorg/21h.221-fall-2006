@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 673e8610-0aa0-6e06-b20b-f2dc71de2203
 resourcetype: Document
 title: border_jen.pdf
 uid: 768e179b-16e1-9308-89e7-dea40e911fe4

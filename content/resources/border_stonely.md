@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 673e8610-0aa0-6e06-b20b-f2dc71de2203
 resourcetype: Document
 title: border_stonely.pdf
 uid: b5d2f629-6ab4-9a10-1aaf-ff8324812f7a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 104893c7-980e-b3ba-6a64-cd1ac205f903
 resourcetype: Document
 title: abstract_jen.pdf
 uid: da767346-6e65-9004-0011-a6c43e4892b1

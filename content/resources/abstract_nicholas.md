@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 104893c7-980e-b3ba-6a64-cd1ac205f903
 resourcetype: Document
 title: abstract_nicholas.pdf
 uid: 56667e60-d15b-49bf-c6fb-cc61450a2ba0

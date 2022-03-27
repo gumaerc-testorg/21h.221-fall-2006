@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6e0e8fb8-e84e-e8a8-6e86-a87a3d88fcd9
 resourcetype: Document
 title: ses18_filipino.pdf
 uid: d2be525d-5e3d-131f-518a-5a3eaf9d837f
