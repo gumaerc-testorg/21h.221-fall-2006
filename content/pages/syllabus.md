@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course
+  and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2006, Christopher Capozzola ([PDF]({{< baseurl >}}/resources/mit21h_221f06_syllf06))
+> Fall 2006, Christopher Capozzola ({{% resource_link 6e8c0163-2059-d28b-7f94-b2c97822c6de "PDF" %}})
 
 Overview
 --------

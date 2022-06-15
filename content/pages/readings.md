@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -487,7 +488,7 @@ This is mostly about homeland security and terrorism, but could be useful for us
 
 Optional: [Arizona Border Watch](http://www.azborderwatch.blogspot.com/)
 
-Recommended: [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)U.S. - Mexico Border Issues (PDF)](http://www.sandiego.gov/public-library/pdf/bordpathrev0808.pdf) from the Smithsonian Institution Libraries' Collections
+Recommended: [U.S. - Mexico Border Issues (PDF)](http://www.sandiego.gov/public-library/pdf/bordpathrev0808.pdf) from the Smithsonian Institution Libraries' Collections
 
 
 {{< tdclose >}}
