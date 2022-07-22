@@ -5,6 +5,7 @@ file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: abstract_anon.pdf
 uid: 624d9b5c-f594-7750-f276-b062c3cf4bfe
 ---
 Sample student work for the research paper abstract assignment.
-

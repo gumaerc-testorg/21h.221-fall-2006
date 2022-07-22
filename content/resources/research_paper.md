@@ -5,6 +5,7 @@ file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: research_paper.pdf
 uid: d12c85ff-af7a-e225-e8d7-51ef65e7ff48
 ---
 Instructions for the research paper.
-

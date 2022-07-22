@@ -5,6 +5,7 @@ file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses17_brainstorm.pdf
 uid: 99eba3c0-11eb-bb18-280f-533e2d7b325f
 ---
 Lecture notes.
-

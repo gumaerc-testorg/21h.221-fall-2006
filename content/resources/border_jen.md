@@ -6,6 +6,7 @@ file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: border_jen.pdf
 uid: 768e179b-16e1-9308-89e7-dea40e911fe4
 ---
 Memo from a student in the course for the U.S.-Mexico Border Relations assignment.
-

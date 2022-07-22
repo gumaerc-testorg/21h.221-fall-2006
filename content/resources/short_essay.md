@@ -5,6 +5,7 @@ file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: short_essay.pdf
 uid: 95ba6615-f31f-d727-2543-d2edcde96614
 ---
 Instructions for a short, 3-5 page writing assignment.
-
