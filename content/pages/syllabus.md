@@ -227,7 +227,7 @@ Informal Student Presentations
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Film: [_Farmingville_](http://www.farmingvillethemovie.com/)
+Film: {{% resource_link "d8bda7cc-0bff-4979-b3db-0432741ac1c7" "_Farmingville_" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Short paper due
@@ -315,7 +315,7 @@ Discussion
 
 Discussion (cont.)
 
-Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/)
+Film: {{% resource_link "8861a878-cb4a-4e7e-8ae0-7ac63a05d57e" "_The Jazz Singer_" %}}
 
 
 {{< tdclose >}}
@@ -331,7 +331,7 @@ Research paper topic due
 {{< tdopen >}}
 
 
-Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) (cont.)
+Film: {{% resource_link "8861a878-cb4a-4e7e-8ae0-7ac63a05d57e" "_The Jazz Singer_" %}} (cont.)
 
 Discussion
 {{< tdclose >}}
@@ -413,7 +413,7 @@ Lecture and Discussion: What's New about "New Immigration"?
 {{< tdopen >}}
 
 
-Film: _[The New Los Angeles](http://www.californiadreamseries.org/nla.htm)_
+Film: _{{% resource_link "1018ac9c-fadc-4197-a4c6-07e49233df44" "The New Los Angeles" %}}_
 
 Brainstorming for Collaborative Research Project
 
@@ -533,7 +533,7 @@ Student Presentations on U.S.-Mexico Border Relations
 {{< tdopen >}}
 
 
-Film: [_My Big Fat Greek Wedding_](http://www.imdb.com/title/tt0259446/)
+Film: {{% resource_link "0ca4dcac-03a5-441b-ab86-eac81a6315a0" "_My Big Fat Greek Wedding_" %}}
 
 
 {{< tdclose >}}
