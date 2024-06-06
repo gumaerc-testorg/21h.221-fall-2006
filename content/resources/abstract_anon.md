@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student work for the research paper abstract assignment.
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/624d9b5cf5947750f276b062c3cf4bfe_abstract_anon.pdf
+file_size: 9323
 file_type: application/pdf
 learning_resource_types:
 - Assignments
