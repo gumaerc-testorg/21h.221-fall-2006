@@ -3,6 +3,7 @@ content_type: resource
 description: Memo from a student in the course for the U.S.-Mexico Border Relations
   assignment.
 file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/768e179b16e1930889e7dea40e911fe4_border_jen.pdf
+file_size: 11457
 file_type: application/pdf
 learning_resource_types:
 - Projects
