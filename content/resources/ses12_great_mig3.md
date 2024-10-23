@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion notes.
-file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/1581a3c642bceba1433b4ae8a0315212_ses12_great_mig3.pdf
+file: /ol-ocw-studio-app/courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/1581a3c642bceba1433b4ae8a0315212_ses12_great_mig3.pdf
 file_size: 28068
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource is a student research paper on the topic "Muslim Integration
   and the European Union: A role for immigration restriction".'
-file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/d4cf5388e5ff9cd58cff8a6630cc18a7_paper_muslim_eu.pdf
+file: /ol-ocw-studio-app/courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/d4cf5388e5ff9cd58cff8a6630cc18a7_paper_muslim_eu.pdf
 file_size: 70571
 file_type: application/pdf
 learning_resource_types:
