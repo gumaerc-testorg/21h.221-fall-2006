@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Nicholas Semenkovich. "Abstract: Muslim Integration and the European
   Union: A role for immigration restriction."'
-file: /ol-ocw-studio-app/courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/56667e60d15b49bfc6fbcc61450a2ba0_abstract_nicholas.pdf
+file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/56667e60d15b49bfc6fbcc61450a2ba0_abstract_nicholas.pdf
 file_size: 10005
 file_type: application/pdf
 learning_resource_types:
