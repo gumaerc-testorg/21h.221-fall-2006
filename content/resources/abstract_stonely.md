@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Aaron Stonely. "Abstract: Mexican Migration."'
-file: /ol-ocw-studio-app/courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/b0fc488a8bbab5ec3e703e3682e6d9fa_abstract_stonely.pdf
+file: /courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006/b0fc488a8bbab5ec3e703e3682e6d9fa_abstract_stonely.pdf
 file_size: 9741
 file_type: application/pdf
 learning_resource_types:
