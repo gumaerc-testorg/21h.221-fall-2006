@@ -28,6 +28,8 @@
     "website": "21h-221-the-places-of-migration-in-united-states-history-fall-2006"
   },
   "course_title": "The Places of Migration in United States History",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course examines the history of the United States as a \"nation of immigrants\" within a broader global context. It considers migration from the mid-19th century to the present through case studies of such places as New York's Lower East Side, South Texas, Florida, and San Francisco's Chinatown. It also examines the role of memory, media, and popular culture in shaping ideas about migration. The course includes optional field trip to New York City.\n",
   "department_numbers": [
     "21H"
@@ -40,9 +42,11 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Podcasts"
   ],
   "site_uid": "26c5ded5-0c0f-4229-be72-602b6b17e4ac",
   "site_short_id": "21h.221-fall-2006",
+  "site_url_path": "courses/21h-221-the-places-of-migration-in-united-states-history-fall-2006",
   "title": "Course Metadata"
 }
