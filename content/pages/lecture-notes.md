@@ -62,7 +62,7 @@ Discussion ({{% resource_link fbcb511c-a4ef-118d-805b-303b6fffa11d "PDF" %}})
 
 Discussion (cont.)
 
-Film: {{% resource_link "b52efbb4-2c7f-4e10-a038-4e5f86ee15f9" "_The Jazz Singer_" %}} ({{% resource_link 1581a3c6-42bc-eba1-433b-4ae8a0315212 "PDF" %}})
+Film: [_The Jazz Singer_](http://imdb.com/title/tt0018037/) ({{% resource_link 1581a3c6-42bc-eba1-433b-4ae8a0315212 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -73,7 +73,7 @@ Film: {{% resource_link "b52efbb4-2c7f-4e10-a038-4e5f86ee15f9" "_The Jazz Singer
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Film: {{% resource_link "b52efbb4-2c7f-4e10-a038-4e5f86ee15f9" "The Jazz Singer" %}} (cont.) and Discussion ({{% resource_link 44c9d260-4bd6-645b-928f-359b11dd3f14 "PDF" %}})
+Film: [The Jazz Singer](http://imdb.com/title/tt0018037/) (cont.) and Discussion ({{% resource_link 44c9d260-4bd6-645b-928f-359b11dd3f14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ Lecture and Discussion: What's New about "New Immigration"? ({{% resource_link 5
 {{< tdopen >}}
 
 
-Film: _{{% resource_link "83588f1e-7acb-48b8-a37b-f24cded62b20" "The New Los Angeles" %}}_
+Film: _[The New Los Angeles](http://www.californiadreamseries.org/nla.htm)_
 
 Brainstorming for Collaborative Research Project ({{% resource_link 99eba3c0-11eb-bb18-280f-533e2d7b325f "PDF" %}})
 
