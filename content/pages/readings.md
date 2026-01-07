@@ -77,12 +77,12 @@ Gabaccia, Donna R. "Is Everywhere Nowhere?: Nomads, Nations, and the Immigrant P
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "f114a7eb-1b14-462d-9906-4bb29a8e4fab" "*Farmingville*" %}}
+Film: [*Farmingville*](http://www.farmingvillethemovie.com/)
 {{< tdclose >}}{{< tdopen >}}
 
 *Farmingville*. Directed by Catherine Tambini and Carolos Sandoval. 2003.
 
-{{% resource_link "51212e30-cd9c-4d00-a0dd-fd5ab0c5e2bd" "PBS Web site on *Farmingville*" %}}
+[PBS Web site on *Farmingville*](http://www.pbs.org/pov/watch/farmingville/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Tampa**
@@ -138,7 +138,7 @@ Kirby, Jack Temple. "The Southern Exodus: A Primer for Historians." *Journal of 
 
 Discussion (cont.)
 
-Film: {{% resource_link "b52efbb4-2c7f-4e10-a038-4e5f86ee15f9" "*The Jazz Singer*" %}}
+Film: [*The Jazz Singer*](http://imdb.com/title/tt0018037/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -150,7 +150,7 @@ Please see readings for Ses #10-11.
 13
 {{< tdclose >}}{{< tdopen >}}
 
-Film: {{% resource_link "b52efbb4-2c7f-4e10-a038-4e5f86ee15f9" "*The Jazz Singer*" %}} (cont.)
+Film: [*The Jazz Singer*](http://imdb.com/title/tt0018037/) (cont.)
 
 Discussion
 
@@ -182,19 +182,19 @@ Diner, Hasia R. *Lower East Side Memories: A Jewish Place in America*. Princeton
 Trip to New York City
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "0f320815-a756-435c-a05b-e071dab0cea5" "Lower East Side Tenement Museum" %}}
+[Lower East Side Tenement Museum](http://www.tenement.org/)
 
-{{% resource_link "45f138bc-9650-414d-a22d-452a07f85323" "Museum of the Chinese in America" %}}
+[Museum of the Chinese in America](http://www.mocanyc.org/)
 
-{{% resource_link "6d924d2b-f3fc-4019-8323-69795b4a39d0" "Zagat Restaurant Guide" %}}
+[Zagat Restaurant Guide](http://www.zagat.com/)
 
-{{% resource_link "5202a661-fd52-4e74-8bb6-f6c70f5de1fa" "National Museum of the American Indian" %}}
+[National Museum of the American Indian](http://www.nmai.si.edu/)
 
-{{% resource_link "7282751a-fd73-4509-af6e-f0875d13f50c" "African Burial Ground, New York City" %}}
+[African Burial Ground, New York City](http://www.nps.gov/afbg/index.htm)
 
-{{% resource_link "53fd65f2-f5b5-407e-97df-ac5ea5a19361" "Five Points: Urban Archaeology of Nineteenth-Century New York" %}}
+[Five Points: Urban Archaeology of Nineteenth-Century New York](https://link.springer.com/chapter/10.1007/978-3-319-09819-7_31)
 
-{{% resource_link "3a24adf4-1aa5-4057-9fd2-0e99357b618d" "Museum of Jewish Heritage" %}}
+[Museum of Jewish Heritage](https://mjhnyc.org/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part 2: Now**
@@ -214,13 +214,13 @@ The reading is incredibly informative but a little dry. For the purposes of our 
 17
 {{< tdclose >}}{{< tdopen >}}
 
-Film: {{% resource_link "83588f1e-7acb-48b8-a37b-f24cded62b20" "*The New Los Angeles*" %}}
+Film: [*The New Los Angeles*](http://www.californiadreamseries.org/nla.htm)
 
 Brainstorming for Collaborative Research Project
 
 {{< tdclose >}}{{< tdopen >}}
 
-*The New Los Angeles*. Directed by Lyn Goldfarb. Part 3, {{% resource_link "084d79b1-51ce-4541-a915-eb2f42625c45" "*California and the American Dream*" %}}. 2005.
+*The New Los Angeles*. Directed by Lyn Goldfarb. Part 3, [*California and the American Dream*](http://www.californiadreamseries.org/). 2005.
 
 (no readings)
 
@@ -246,9 +246,9 @@ Choy, Catherine Ceniza. *Empire of Care: Nursing and Migration in Filipino Ameri
 Discussion
 {{< tdclose >}}{{< tdopen >}}
 
-Skerry, Peter. "{{% resource_link "77e21d3b-fb35-4c7a-9b49-384fe20355ef" "How Not to Build a Fence" %}}." *Foreign Policy* (September/October 2006).
+Skerry, Peter. "[How Not to Build a Fence](https://foreignpolicy.com/2009/10/14/how-not-to-build-a-fence/)." *Foreign Policy* (September/October 2006).
 
-{{% resource_link "5caed4ed-d90f-495c-938d-ceba29858ada" "The Coalition for Justice in the Maquiladoras" %}}
+[The Coalition for Justice in the Maquiladoras](http://coalitionforjusticecjm.blogspot.in/)
 
 Binder, Norman E., J. L. Polinard, and Robert D. Wrinkle. "Mexican American and Anglo Attitudes Toward Immigration Reform: A View From the Border." *Social Science Quarterly* 78 (1997): 324-337.
 
@@ -262,13 +262,13 @@ This includes a summary of what we know about whether migration is keeping down 
 
 This is mostly about homeland security and terrorism, but could be useful for us generally.
 
-{{% resource_link "59c5c7ef-b1bf-47ef-832d-54259be177f9" "Migrant Photos" %}} and {{% resource_link "75f11d8b-de5d-4747-b835-bd4f2b3af9c9" "Minutemen Photos" %}} from the Border Film Project
+[Migrant Photos](http://www.borderfilmproject.com/migrants.html) and [Minutemen Photos](http://www.borderfilmproject.com/minutemen.html) from the Border Film Project
 
-{{% resource_link "47b6802a-7df6-48f6-9b13-cecb492ef9db" "U.S. Customs and Border Protection" %}}
+[U.S. Customs and Border Protection](http://www.cbp.gov/)
 
-Optional: {{% resource_link "c6b3e886-758d-447e-86f4-aa765292d015" "Arizona Border Watch" %}}
+Optional: [Arizona Border Watch](http://www.azborderwatch.blogspot.com/)
 
-Recommended: {{% resource_link "cb3a6594-d797-45d2-997a-ebf74e924343" "U.S. - Mexico Border Issues (PDF)" %}} from the Smithsonian Institution Libraries' Collections
+Recommended: [U.S. - Mexico Border Issues (PDF)](http://www.sandiego.gov/public-library/pdf/bordpathrev0808.pdf) from the Smithsonian Institution Libraries' Collections
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -276,9 +276,9 @@ Recommended: {{% resource_link "cb3a6594-d797-45d2-997a-ebf74e924343" "U.S. - Me
 Guest Lecturer: Raúl Rubio on the Cuban-American Experience
 {{< tdclose >}}{{< tdopen >}}
 
-Rubio, Raúl. "{{% resource_link "89770272-460f-4553-8212-a4f90fa52267" "Discourses of/on Nostalgia: Cuban America's Real and Fictional Geographies" %}}." *Letras Hispanas* 3, no. 1 (Spring 2006).
+Rubio, Raúl. "[Discourses of/on Nostalgia: Cuban America's Real and Fictional Geographies](http://www.modlang.txstate.edu/letrashispanas/previousvolumes/vol3-1/contentParagraph/0/content_files/file0/Rubio.pdf)." *Letras Hispanas* 3, no. 1 (Spring 2006).
 
-———. "{{% resource_link "d69fee5e-c387-461b-895b-f58db20324fa" "Materializing Havana and Revolution: Cuban Material Culture" %}}." *Studies in Latin American Popular Culture* 24, no. 24 (2005):161-177.
+———. "[Materializing Havana and Revolution: Cuban Material Culture](https://www.researchgate.net/publication/292507200_Materializing_Havana_and_revolution_Cuban_material_culture)." *Studies in Latin American Popular Culture* 24, no. 24 (2005):161-177.
 
 Watson, Bruce. *Bread and Roses: Mills, Migrants, and the Struggle for the American Dream*. New York, NY: Viking, 2005, pp. 241-258. ISBN: 9780670033973.
 
@@ -305,7 +305,7 @@ Student Presentations on U.S.-Mexico Border Relations
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "97e0527a-33f3-4e19-8686-89b24f9343fb" "*My Big Fat Greek Wedding*" %}}
+Film: [*My Big Fat Greek Wedding*](http://www.imdb.com/title/tt0259446/)
 {{< tdclose >}}{{< tdopen >}}
 
 *My Big Fat Greek Wedding*. Directed by Joel Swick. 2002.
